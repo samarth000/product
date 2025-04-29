@@ -3,7 +3,7 @@
         "id": 1,
         "name":" Document-based Customer Support",
         "price": 200,
-        "image": "img/1.png",
+        "image": "1.png",
         "description": "● Need: Quick and accurate responses to customer queries using existing documentation ● Industry: Customer Service, IT, Telecom, Retail ● Applications: Chatbots, Virtual Assistants, Knowledge Base Q&A"
     },
     {
